@@ -1,0 +1,26 @@
+# Trader Performance vs Market Sentiment Analysis
+
+This project analyzes how trader performance changes across Fear and Greed market conditions.
+
+## Key Findings
+
+- Fear days show highest average trader profitability.
+- Extreme Greed produces highest win rate.
+- Extreme Fear reduces consistency and increases risk.
+
+## Strategy Recommendations
+
+- Increase exposure during Fear periods.
+- Reduce risk during Extreme Fear.
+- Increase trading frequency only for consistent traders during Extreme Greed.
+
+## Tools Used
+
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+
+## How to run
+
+Open the notebook in Google Colab and run all cells.
