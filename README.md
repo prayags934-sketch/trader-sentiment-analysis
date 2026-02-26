@@ -8,6 +8,15 @@ This project analyzes how trader performance changes across Fear and Greed marke
 - Extreme Greed produces highest win rate.
 - Extreme Fear reduces consistency and increases risk.
 
+## Methodology
+
+- Cleaned and standardized column names
+- Converted timestamps to daily level
+- Merged trader data with sentiment data
+- Calculated daily PnL, win rate, and trade frequency per trader
+- Compared metrics across Fear, Greed, Extreme Fear, and Extreme Greed
+- Identified trader segments and behavioral patterns
+  
 ## Strategy Recommendations
 
 - Increase exposure during Fear periods.
