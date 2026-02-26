@@ -33,3 +33,9 @@ This project analyzes how trader performance changes across Fear and Greed marke
 ## How to run
 
 Open the notebook in Google Colab and run all cells.
+
+## Data Note
+
+The historical_data.csv file is large and not included in this repository due to GitHub size limits.
+
+To run the notebook, download the dataset and place it in the data/ folder, or update the file path accordingly.
